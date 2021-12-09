@@ -29,3 +29,5 @@ This repository is a space for me to document and develop systems for optimizing
    - ###### Package: https://pypi.org/project/pmdarima/
    - ###### How To: https://towardsdatascience.com/time-series-forecasting-using-auto-arima-in-python-bb83e49210cd     
    - ###### Example: https://github.com/SushmithaPulagam/TimeSeries_Auto-ARIMA
+2. (LIME)[https://lime-ml.readthedocs.io/en/latest/]
+    - It is a class of packages that help interpret your data and models. *Use on the days when you don't think you understand what the heck you just did or built*
