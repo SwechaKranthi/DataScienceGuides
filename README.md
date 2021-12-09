@@ -36,6 +36,6 @@ This repository is a space for me to document and develop systems for optimizing
 2. [LIME](https://lime-ml.readthedocs.io/en/latest/)
     - It is a class of packages that help interpret your data and models. ** _ Use on the days when you don't think you understand what the heck you just did or built_ **
 
-3. [Pandas Profiling]()
+3. [Pandas Profiling](https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/)
     - Generates profile reports from a pandas DataFrame. ** _ Simply Put, Automates your Exploratory Data Analysis _ **
 
