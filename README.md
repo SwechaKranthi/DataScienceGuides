@@ -39,3 +39,5 @@ This repository is a space for me to document and develop systems for optimizing
 3. [Pandas Profiling](https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/)
     - Generates profile reports from a pandas DataFrame. ** _ Simply Put, Automates your Exploratory Data Analysis _ **
 
+4. [Feature Tools](https://www.featuretools.com/)
+    - ** _ A tool to automate your Feature Engineering Process_ **
