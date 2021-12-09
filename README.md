@@ -11,8 +11,8 @@ This repository is a space for me to document and develop systems for optimizing
 6. [Matplotlib](https://datacamp-community-prod.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
 7. [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 8. NLP:
-  - [NLP's basic terminology and techniques](https://cheatography.com/sree017/cheat-sheets/nlp/)
-  - [how to apply NLP techniques using Python and NLTK](https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/)
+    - [NLP's basic terminology and techniques](https://cheatography.com/sree017/cheat-sheets/nlp/)
+    - [how to apply NLP techniques using Python and NLTK](https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/)
 9. [Jupyter Notebook](https://datacamp-community-prod.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40)
 
 
