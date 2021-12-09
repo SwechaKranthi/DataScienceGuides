@@ -18,14 +18,14 @@ This repository is a space for me to document and develop systems for optimizing
 
 ### Cool Tools:
 1. Auto - Arima : for time series
-  - First, What is Arima
-    - 'AutoRegressive Integrated Moving Average', is a forecasting algorithm based on the idea that the information in the past values of the time series can alone be used to predict the future values.
-    - So Arima is a class of models that calculate the lags and lagged forecast errors of a time series and is characterized by 3 variables: P, Q ,D
-      - p is the order of auto regression variable (AR)
-      - q is the order of the Moving Average variable (MA)
-      - d is the number of differences needed to make the time series stationary
-    - Manually, We define and try to optimize for the pqd values when using arima for univariate series analysis
-    - AutoArima is a tool for automatically optimizing for these values
-  - ###### Package: https://pypi.org/project/pmdarima/
-  - ###### How To: https://towardsdatascience.com/time-series-forecasting-using-auto-arima-in-python-bb83e49210cd
-  - ###### Example: https://github.com/SushmithaPulagam/TimeSeries_Auto-ARIMA
+    - First, What is Arima
+        - 'AutoRegressive Integrated Moving Average', is a forecasting algorithm based on the idea that the information in the past values of the time series can alone be used to predict the future values.
+        - So Arima is a class of models that calculate the lags and lagged forecast errors of a time series and is characterized by 3 variables: P, Q ,D
+            - p is the order of auto regression variable (AR)
+            - q is the order of the Moving Average variable (MA)
+            - d is the number of differences needed to make the time series stationary
+        - Manually, We define and try to optimize for the pqd values when using arima for univariate series analysis
+        - AutoArima is a tool for automatically optimizing for these values
+   - ###### Package: https://pypi.org/project/pmdarima/
+   - ###### How To: https://towardsdatascience.com/time-series-forecasting-using-auto-arima-in-python-bb83e49210cd     
+   - ###### Example: https://github.com/SushmithaPulagam/TimeSeries_Auto-ARIMA
