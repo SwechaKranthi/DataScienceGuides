@@ -6,7 +6,7 @@ This repository is a space for me to document and develop systems for optimizing
 1. [Probability](https://github.com/wzchen/probability_cheatsheet)
 2. [Statistics](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics)
     - Textbook - [Statistics in Plain English](https://www.book2look.com/embed/9781317526988) 
-    - Statistical Thinking:  
+    - Statistical Thinking:  [Think Stats PDF](https://github.com/SwechaKranthi/DataScienceGuides/blob/main/thinkstats.pdf)
 4. [SQL](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf)
 5. [Pandas](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
 6. [Visualization](http://www.biosci.global/customer-stories-en/data-visualization-cheat-sheet/)
