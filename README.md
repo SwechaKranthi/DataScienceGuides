@@ -41,3 +41,10 @@ This repository is a space for me to document and develop systems for optimizing
 
 4. [Feature Tools](https://www.featuretools.com/)
     - ***A tool to automate your Feature Engineering Process***
+
+5. [ML Flow](https://mlflow.org/)
+    - Open source platform for _Tracking_ experiments, packaging _Projects_, managing and deploying _Models_, and maintain a centralized model storage via _Model Registry_
+
+6. [Pycaret](https://pycaret.org/)
+    - PyCaret is an open source, low-code machine learning library in Python. ***USE for simplifying the data science process*** 
+    - Has easy methods and tools for faster, more structured feature-engineering, pre-processing and modeling.
